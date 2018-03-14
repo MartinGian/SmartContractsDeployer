@@ -1,3 +1,5 @@
+// Example script to deploy the SimpleStorage.json smart contract
+
 let fs = require("fs");
 let Web3 = require('web3'); // https://www.npmjs.com/package/web3
 
